@@ -39,3 +39,5 @@ npm run build    # gera dist/
 - **Depoimentos:** adicione depoimentos reais e autorizados em `testimonials` (`js/config.js`). Vazio = seção oculta.
 - **Endereço e mapa incorporado:** o endereço não foi fornecido. Com o endereço confirmado, é possível incluir um `<iframe>` do Google Maps na seção Localização.
 - **Preços e horários:** não foram informados e não aparecem no site.
+
+- teste
