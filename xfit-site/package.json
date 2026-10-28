@@ -1,0 +1,11 @@
+{
+  "name": "xfit-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site institucional estático da X Fit Musculação Avançada (Cloudflare Pages)",
+  "scripts": {
+    "dev": "npx --yes serve public -l 3000",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}
